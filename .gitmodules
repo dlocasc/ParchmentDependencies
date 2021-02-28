@@ -7,3 +7,6 @@
 [submodule "googletest"]
 	path = googletest
 	url = https://github.com/google/googletest/
+[submodule "jsoncpp"]
+	path = jsoncpp
+	url = https://github.com/open-source-parsers/jsoncpp.git
