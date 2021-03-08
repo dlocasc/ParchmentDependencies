@@ -7,9 +7,9 @@
 [submodule "googletest"]
 	path = googletest
 	url = https://github.com/google/googletest/
-[submodule "jsoncpp"]
-	path = jsoncpp
-	url = https://github.com/open-source-parsers/jsoncpp.git
 [submodule "imgui-filebrowser"]
 	path = imgui-filebrowser
 	url = https://github.com/AirGuanZ/imgui-filebrowser
+[submodule "json"]
+	path = json
+	url = https://github.com/nlohmann/json
